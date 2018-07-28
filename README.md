@@ -1,4 +1,4 @@
-<<h2>Cut PSD to HTML, CSS, JS</h2>
+<h2>Cut PSD to HTML, CSS, JS</h2>
 <h3>Name: Le Thi Huyen</h3>
 <hr>
 <h4>Quick start</h4>
